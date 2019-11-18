@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 class InfoArea extends AbstractArea {
   InfoArea(int posX, int posY, int yoko, int tate) {
     super(posX, posY, yoko, tate);
@@ -10,3 +11,6 @@ class InfoArea extends AbstractArea {
     text("<- Left turn", (posX+0.3)*SQUARESIZE, (posY+0.5)*SQUARESIZE);
   }
 }
+=======
+
+>>>>>>> Stashed changes
